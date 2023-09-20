@@ -47,7 +47,7 @@ To use this code and the pre-trained model, you should have a good understanding
 
 If you have any questions or need further assistance, you can reach out to me via the following channels:
 
-- Telegram: [Telegram URL](https://t.me/ha12qw)
-- Facebook: [Facebook URL](https://www.facebook.com/profile.php?id=100049592914479)
+- Telegram: [Mustafa Mohammad](https://t.me/ha12qw)
+- Facebook: [Mustafa Mohammad](https://www.facebook.com/profile.php?id=100049592914479)
 
 Feel free to explore the code and use the model for your currency exchange rate predictions.
